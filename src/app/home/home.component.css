@@ -1,0 +1,477 @@
+/* Styling */
+.bckimg {
+  background-image: url('../../assets/images/Banner.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-attachment: fixed;
+  background-size: 100% 402px; */
+}
+.cardmenu{
+  background-color: transparent !important;
+}
+
+.body-details {
+  background-color: transparent !important;
+  border: none !important;
+  border-radius: none !important;
+}
+
+#logo {
+  width: 193px;
+  height: 105px;
+}
+
+.paediatric {
+  color: #FFFFFF;
+  font-family: Titillium;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 40px;
+  width: 100%;
+  text-align: left;
+}
+
+.haematology {
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 20px;
+  letter-spacing: 0.5px;
+  line-height: 34px;
+  width: 599px;
+  text-align: left;
+}
+
+.book-appointment {
+  border-radius: 3.2px;
+  width: 186px;
+  height: 45px;
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 14.4px;
+  line-height: 17px;
+  text-align: center;
+}
+
+.enquire {
+  color: #213559;
+  font-family: StagSans;
+  font-size: 20.08px;
+  line-height: 24px;
+  width: 127px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.enquiry {
+  background-color: #FFFFFF;
+  box-shadow: -4px 2px 13px 0 rgba(85, 95, 126, 0.18);
+  width: 339px;
+  /* height: 492px; */
+}
+
+.name {
+  border: 0.87px solid #D0D0D0;
+  width: 278px;
+  height: 42px;
+  color: #213559;
+  font-family: StagSans;
+  font-size: 12.22px;
+  line-height: 15px;
+  /* width: 36px; */
+  text-align: left;
+  border-radius: 0px !important;
+}
+
+.email {
+  border: 0.87px solid #D0D0D0;
+  width: 278px;
+  height: 42px;
+  color: #213559;
+  font-family: StagSans;
+  font-size: 12.22px;
+  line-height: 15px;
+  /* width: 36px; */
+  text-align: left;
+  border-radius: 0px !important;
+}
+
+.phone {
+  border: 0.87px solid #D0D0D0;
+  width: 278px;
+  height: 42px;
+  color: #213559;
+  font-family: StagSans;
+  font-size: 12.22px;
+  line-height: 15px;
+  /* width: 36px; */
+  text-align: left;
+  border-radius: 0px !important;
+}
+
+.message {
+  border: 0.87px solid #D0D0D0;
+  width: 278px;
+  height: 72px;
+  color: #213559;
+  font-family: StagSans;
+  font-size: 12.22px;
+  line-height: 15px;
+  /* width: 91px; */
+  text-align: left;
+  border-radius: 0px !important;
+}
+
+.submit {
+  width: 111px;
+  height: 44px;
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 14.84px;
+  line-height: 18px;
+  text-align: center;
+}
+
+.robot {
+  border: 0.87px solid #D0D0D0;
+  width: 278px;
+  height: 72px;
+  color: #213559;
+  font-family: StagSans;
+  font-size: 12.22px;
+  line-height: 15px;
+  /* width: 91px; */
+  text-align: left;
+  border-radius: 0px !important;
+}
+
+#bone-marrow-img {
+  width: 110%;
+  height: auto;
+}
+
+#bone-marrow {
+  background-image: radial-gradient(#2EC4B8 0%, #6078EA 100%);
+  border-radius: 4px;
+  width: 100%;
+  height: auto;
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: left;
+  margin: 2px;
+  padding: 10px;
+}
+
+.replacement {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 17px;
+  line-height: 20px;
+  width: 100%;
+  text-align: left;
+}
+
+.medicines {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 17px;
+  line-height: 20px;
+  width: 100%;
+  text-align: left;
+}
+
+.autologous {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 17px;
+  line-height: 20px;
+  width: 100%;
+  text-align: left;
+}
+
+.b-marrow {
+  border: 1px solid #ECECFF !important;
+  width: 623px !important;
+  height: 2px !important;
+  box-sizing: none !important;
+}
+
+.doctors {
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+}
+
+.row1-doc {
+  background-color: #F9F9FF;
+  border-radius: 4px;
+  width: 539px;
+  height: 800px;
+}
+
+.row2-doc {
+  background-color: #F9F9FF;
+  width: 536px;
+  height: 800px;
+}
+
+.line1-hr {
+  border: 1px solid #ECECFF !important;
+  width: 415px !important;
+  height: 2px !important;
+}
+
+.pediatric {
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 24px;
+  letter-spacing: 0.99px;
+  line-height: 44px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.dr-vijay-agarwal {
+  color: #1D5AA6;
+  font-family: StagSans;
+  font-size: 22px;
+  letter-spacing: 1.76px;
+  line-height: 26px;
+  text-align: center;
+}
+
+.md-phd {
+  color: #1D5AA6;
+  font-family: StagSans;
+  font-size: 15px;
+  letter-spacing: 1.2px;
+  line-height: 3px;
+  text-align: center;
+}
+
+.line3 {
+  border: 1px solid #22B78E !important;
+  width: 37px !important;
+  height: 1px !important;
+}
+
+.primary {
+  background-image: radial-gradient(#17EAD9 0%, #6078EA 100%);
+  border-radius: 4px;
+  /* width: 129px; */
+  height: 35px;
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 15px;
+  letter-spacing: 1px;
+  line-height: 18px;
+  text-align: left;
+}
+
+.dr-agarwal {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  line-height: 20px;
+  width: 447px;
+  text-align: center;
+}
+
+.what-are-types {
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+}
+
+.doc-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.plus {
+  background: url('../../assets/images/hospital.png') no-repeat left;
+  height: auto;
+  padding-top: 0px;
+  padding-left: 33px;
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 39px;
+  text-align: left;
+}
+
+.list {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.the-warning-signs-of {
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+}
+
+.war-sign {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 21px;
+  width: 198px;
+  text-align: left;
+}
+
+.card-content {
+  background-color: #FFFFFF;
+  border: 1px solid #E5EAFF;
+  border-radius: 4px;
+  box-shadow: 3px 5px 29px 0 rgb(187 165 228 / 10%);
+  width: 255px;
+  height: 170px;
+}
+
+.tick {
+  background: url('../../assets/images/double-tick-indicator.png') no-repeat left;
+  height: auto;
+  padding-top: 0px;
+  padding-left: 33px;
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 30px;
+  text-align: left;
+}
+
+.accordian1 {
+  color: #1D5AA6;
+  font-family: StagSans;
+  font-size: 20px;
+  letter-spacing: 1.6px;
+  line-height: 22px;
+  /* width: 797px; */
+  text-align: left;
+  font-weight: bold;
+}
+
+.accordian-content {
+  border: 1px solid #ECECFF !important;
+  width: 100% !important;
+  height: 10px !important;
+}
+
+.card1 {
+  border: none !important;
+}
+
+.testimonials {
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+}
+
+.t-content {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  line-height: 21px;
+  width: 609px;
+  text-align: left;
+}
+
+.t-content1 {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  font-style: italic;
+  line-height: 21px;
+  width: 410px;
+  text-align: left;
+  padding-top: 1rem;
+}
+
+.sample {
+  background-image: url('../../assets/images/John.png');
+  background-repeat: no-repeat;
+  margin: 10px;
+}
+
+.john {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: -6px;
+  color: #000000;
+  font-family: StagSans;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.software-eng {
+  margin-left: 50px;
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: left;
+}
+
+.footer-button{
+  background-color: #004498;
+  border-radius: 3.81px;
+  width: 221px;
+  height: 50px;
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 15px;
+  line-height: 21px;
+  text-align: center;
+}
+.footer-card{
+  background-color: #FFFFFF;
+  border-radius: 4px;
+  box-shadow: 9px 8px 27px 0 rgb(0 0 0 / 4%);
+  width: 100%;
+  height: 200px;
+}
+.quotes
+{
+  color: #000000;
+  float: right;
+  font-size: 213px;
+  line-height: 256px;
+}
+.footer-style{
+  background-color: #272727;
+  width: 100%;
+  height: 256px;
+}
+.footer-line{
+  border: 1px solid rgba(255, 255, 255, 0.21);
+  opacity: 0.3701869419642857;
+  width: 100%;
+  height: 2px;
+}
+.aster{
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 14px;
+  letter-spacing: 1.12px;
+  line-height: 17px;
+  text-align: center;
+}
